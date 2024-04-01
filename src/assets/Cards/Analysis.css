@@ -1,0 +1,50 @@
+.main_2{
+    width: 50%;
+    height: 80vh;
+    border-radius: 32px;
+    margin-top: 30px;
+    background-color: white;
+    padding: 20px;
+    overflow: scroll;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.top_heading{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.topics{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.copy{
+    padding: 15px 30px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.lists{
+    margin-top: 20px;
+}
+.lable{
+    display: flex;
+}
+.sprint{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+.translator{
+    font-family: sans-serif;
+    color: #6B6B6B;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
