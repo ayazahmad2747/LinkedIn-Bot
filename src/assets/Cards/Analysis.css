@@ -35,6 +35,9 @@
     color: white;
     border-radius: 10px;
     cursor: pointer;
+    @media (max-width: 500px) {
+        margin-top: 20px;
+    }
 }
 .lists{
     margin-top: 20px;
