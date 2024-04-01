@@ -8,6 +8,9 @@
     overflow: scroll;
     padding-bottom: 20px;
     margin-bottom: 30px;
+    @media (max-width:800px) {
+        width: 100%;
+    }
 }
 .top_heading{
     font-size: 24px;
